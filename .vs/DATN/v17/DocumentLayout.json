@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\katar\\source\\repos\\DATN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|c:\\users\\katar\\source\\repos\\datn\\datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|solutionrelative:datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\katar\\source\\repos\\DATN\\DATN\\Program.cs",
+              "RelativeDocumentMoniker": "DATN\\Program.cs",
+              "ToolTip": "C:\\Users\\katar\\source\\repos\\DATN\\DATN\\Program.cs",
+              "RelativeToolTip": "DATN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:55:30.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
