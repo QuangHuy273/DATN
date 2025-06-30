@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <Folder Include="Interface\Repository\" />
+    <Folder Include="Interface\Repository\" />
   </ItemGroup>
 
 </Project>
