@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\katar\\source\\repos\\DATN\\",
+  "WorkspaceRootPath": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|c:\\users\\katar\\source\\repos\\datn\\datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|solutionrelative:datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|c:\\users\\thehu\\source\\repos\\datn\\datn\\datn\\model\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|solutionrelative:datn\\model\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|c:\\users\\thehu\\source\\repos\\datn\\datn\\datn\\model\\shoedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|solutionrelative:datn\\model\\shoedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}|SwaggerAPI\\SwaggerAPI.csproj|c:\\users\\thehu\\source\\repos\\datn\\datn\\swaggerapi\\swaggerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}|SwaggerAPI\\SwaggerAPI.csproj|solutionrelative:swaggerapi\\swaggerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|c:\\users\\thehu\\source\\repos\\datn\\datn\\datn\\datn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2EC3DB48-68B7-4E80-BB6C-796104D88A69}|DATN\\DATN.csproj|solutionrelative:datn\\datn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}|WebView\\WebView.csproj|c:\\users\\thehu\\source\\repos\\datn\\datn\\webview\\webview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}|WebView\\WebView.csproj|solutionrelative:webview\\webview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +30,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\katar\\source\\repos\\DATN\\DATN\\Program.cs",
-              "RelativeDocumentMoniker": "DATN\\Program.cs",
-              "ToolTip": "C:\\Users\\katar\\source\\repos\\DATN\\DATN\\Program.cs",
-              "RelativeToolTip": "DATN\\Program.cs",
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\DATN\\Model\\Shoe.cs",
+              "RelativeDocumentMoniker": "DATN\\Model\\Shoe.cs",
+              "ToolTip": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\DATN\\Model\\Shoe.cs",
+              "RelativeToolTip": "DATN\\Model\\Shoe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:17:25.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\DATN\\Model\\ShoeDbContext.cs",
+              "RelativeDocumentMoniker": "DATN\\Model\\ShoeDbContext.cs",
+              "ToolTip": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\DATN\\Model\\ShoeDbContext.cs",
+              "RelativeToolTip": "DATN\\Model\\ShoeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T03:55:30.959Z",
+              "WhenOpened": "2025-06-30T14:17:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DATN.http",
+              "DocumentMoniker": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\DATN\\DATN.http",
+              "RelativeDocumentMoniker": "DATN\\DATN.http",
+              "ToolTip": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\DATN\\DATN.http",
+              "RelativeToolTip": "DATN\\DATN.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-30T14:17:06.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerAPI",
+              "DocumentMoniker": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\SwaggerAPI.csproj",
+              "RelativeDocumentMoniker": "SwaggerAPI\\SwaggerAPI.csproj",
+              "ToolTip": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\SwaggerAPI.csproj",
+              "RelativeToolTip": "SwaggerAPI\\SwaggerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T14:13:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebView",
+              "DocumentMoniker": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\WebView\\WebView.csproj",
+              "RelativeDocumentMoniker": "WebView\\WebView.csproj",
+              "ToolTip": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\WebView\\WebView.csproj",
+              "RelativeToolTip": "WebView\\WebView.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T14:14:40.093Z",
               "EditorCaption": ""
             }
           ]
