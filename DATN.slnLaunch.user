@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DATN\\DATN.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SwaggerAPI\\SwaggerAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebView\\WebView.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

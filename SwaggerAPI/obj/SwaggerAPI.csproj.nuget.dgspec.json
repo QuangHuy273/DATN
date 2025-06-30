@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thehu\\Source\\Repos\\DATN\\SwaggerAPI\\SwaggerAPI.csproj": {}
+    "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\SwaggerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thehu\\Source\\Repos\\DATN\\SwaggerAPI\\SwaggerAPI.csproj": {
+    "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\SwaggerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thehu\\Source\\Repos\\DATN\\SwaggerAPI\\SwaggerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\SwaggerAPI.csproj",
         "projectName": "SwaggerAPI",
-        "projectPath": "C:\\Users\\thehu\\Source\\Repos\\DATN\\SwaggerAPI\\SwaggerAPI.csproj",
+        "projectPath": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\SwaggerAPI.csproj",
         "packagesPath": "C:\\Users\\thehu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thehu\\Source\\Repos\\DATN\\SwaggerAPI\\obj\\",
+        "outputPath": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\SwaggerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

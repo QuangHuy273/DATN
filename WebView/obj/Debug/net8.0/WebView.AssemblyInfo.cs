@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+114fc35f3c7ece816dcca1b5fdeb1ae64eaf282d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d59d9343ddca698764ff137db7dd726c8797457")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
