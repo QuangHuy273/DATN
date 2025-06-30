@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATN", "DATN\DATN.csproj", "{2EC3DB48-68B7-4E80-BB6C-796104D88A69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerAPI", "SwaggerAPI\SwaggerAPI.csproj", "{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebView", "WebView\WebView.csproj", "{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2EC3DB48-68B7-4E80-BB6C-796104D88A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EC3DB48-68B7-4E80-BB6C-796104D88A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EC3DB48-68B7-4E80-BB6C-796104D88A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E431170-3C9A-48BB-ADC2-1D268F7CCC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3D4EC2-1CA2-4C0E-BFC1-8D25086964BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
