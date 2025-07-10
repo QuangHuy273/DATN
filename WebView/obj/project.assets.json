@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\WebView\\WebView.csproj",
+      "projectUniqueName": "C:\\Users\\thehu\\source\\repos\\DATN\\WebView\\WebView.csproj",
       "projectName": "WebView",
-      "projectPath": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\WebView\\WebView.csproj",
+      "projectPath": "C:\\Users\\thehu\\source\\repos\\DATN\\WebView\\WebView.csproj",
       "packagesPath": "C:\\Users\\thehu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thehu\\source\\repos\\DATN\\DATN\\WebView\\obj\\",
+      "outputPath": "C:\\Users\\thehu\\source\\repos\\DATN\\WebView\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
